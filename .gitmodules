@@ -1,0 +1,3 @@
+[submodule "jd-core"]
+	path = jd-core
+	url = https://github.com/java-decompiler/jd-core.git

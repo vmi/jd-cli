@@ -1,0 +1,19 @@
+# Backup files
+*~
+.*~
+\#*
+.\#*
+*.swp
+.*.swp
+*.bak
+.*.bak
+
+# IDE
+/.idea
+/.classpath
+/.project
+/.settings/
+/target/
+
+# Misc
+/tmp/
