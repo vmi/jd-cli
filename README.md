@@ -19,3 +19,11 @@ jd-cli [OPTIONS] TARGET ...
 -o,  --out-dir OUTDIR       Specify the output directory of generated Java source.
                             (default: the same directory as the class file)
 ```
+
+Build
+-----
+
+You can run the following command to build:
+
+* UNIX: `./build.sh`
+* Windows: `.\build.cmd`
