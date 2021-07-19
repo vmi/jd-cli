@@ -33,7 +33,6 @@ public class JdCli {
         "-cp, --classpath CLASSPATH  Specify CLASSPATH.%n" +
         "-o,  --out-dir OUTDIR       Specify the output directory of generated Java source.%n" +
         "                            (default: standard output)%n" +
-        "-v, --verbose               Verbose mode.%n" +
         "-h, --help                  Show this message.%n";
 
     private static void help() {

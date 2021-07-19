@@ -18,6 +18,4 @@ jd-cli [OPTIONS] TARGET ...
 -cp, --classpath CLASSPATH  Specify CLASSPATH.
 -o,  --out-dir OUTDIR       Specify the output directory of generated Java source.
                             (default: the same directory as the class file)
--s, --stdout                Output Java source to standard output instead of file.
 ```
-

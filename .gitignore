@@ -8,12 +8,13 @@
 *.bak
 .*.bak
 
-# IDE
+# IDE and build tools
 /.idea
 /.classpath
 /.project
 /.settings/
 /target/
+*.iml
 
 # Misc
 /tmp/
