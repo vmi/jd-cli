@@ -3,7 +3,7 @@
 jar="$(cygpath -am "$0")"
 args=()
 for arg in "$@"; do
-  if [ -x "$arg" ]; then
+  if [ -e "$arg" ]; then
     args+=("$(cygpath -am "$arg")")
   else
     args+=("$arg")
